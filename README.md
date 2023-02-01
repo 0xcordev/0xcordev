@@ -88,7 +88,7 @@ Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️
   ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
   ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=devstack03&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" />
 
 <p align="center">
     <a href="https://github.com/devstack03"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devstack03&theme=tokyonight&hide_border=true"  width="520" alt="Devstack03"/></a>
