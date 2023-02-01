@@ -87,11 +87,10 @@ Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️
   ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white) 
   ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
   ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
-
+<p align="center">
 <img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=devstack03&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" />
-
+</p>
 <p align="center">
     <a href="https://github.com/devstack03"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devstack03&theme=tokyonight&hide_border=true"  width="520" alt="Devstack03"/></a>
 <a href="https://github.com/devstack03"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=devstack03&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="320"  alt="devstack03"/></a>
 </p>
-Credit: [Devstack03](https://github.com/devstack03)
