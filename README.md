@@ -22,8 +22,6 @@ Things I am currently experimenting with : jest , enzyme , typescript, docker...
 Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️.
 </p>
 
-
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
   
 ### ✨ Quick Facts
 
