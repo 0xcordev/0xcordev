@@ -16,7 +16,6 @@ NodeJS - ExpressJS, NestJS
 <br/> 
 Database - MongoDB, Postgresql, Mysql
 <br/> 
-<br/> 
 Blockchain - ERC20, ERC715, Solidity, Solana, 
 <br/> 
 <br/>
