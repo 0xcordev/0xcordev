@@ -16,6 +16,9 @@ NodeJS - ExpressJS, NestJS
 <br/> 
 Database - MongoDB, Postgresql, Mysql
 <br/> 
+<br/> 
+Blockchain - ERC20, ERC715, Solidity, Solana, 
+<br/> 
 <br/>
 Things I am currently experimenting with : jest , enzyme , typescript, docker...
 <br/>
