@@ -21,7 +21,7 @@ Blockchain - ERC20, ERC715, Solidity, Solana,
 <br/>
 Things I am currently experimenting with : jest , enzyme , typescript, docker...
 <br/>
-Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️.
+Want to become a full-time developer 💸 and an Open Source Contributor ❤️.
 </p>
   
 ### ✨ Quick Facts
