@@ -26,7 +26,6 @@ Want to become a full-time developer 💸 and an Open Source Contributor ❤️.
   
 ### ✨ Quick Facts
 
-- 👨🏽‍💻 I’m currently working as a freelancer.
 - 🌱 I’m currently learning DevOps and Rust.
 <!--- 🤔 I’m looking for help for my future MERN projects.-->
 - 💬 Ask me about anything related to JS, React, Redux, Firebase.(After googling it 😜😌)
